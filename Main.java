@@ -16,6 +16,6 @@ public class Main {
         int fellucaPhase = ((worldTime / 1440) % 14) + 1;
         System.out.printf("It is %02d:%02d on day %d of year %d.", hour, minute, day, year);
         System.out.print("\nTrammel is currently on day "+ trammelPhase +" of it's 9-day cycle.");
-        System.out.print("\nFelucca is currently on day "+ fellucaPhase +" of it's 9-day cycle.");
+        System.out.print("\nFelucca is currently on day "+ fellucaPhase +" of it's 14-day cycle.");
     }
 }
