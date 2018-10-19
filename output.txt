@@ -2,19 +2,19 @@
 Input World Time: 168260271
 It is 09:51 on day 48 of year 321.
 Trammel is currently on day 1 of it's 9-day cycle.
-Felucca is currently on day 4 of it's 9-day cycle.
+Felucca is currently on day 4 of it's 14-day cycle.
 Process finished with exit code 0
 
 //For 27364375:
 Input World Time: 27364375
 It is 00:55 on day 24 of year 53.
 Trammel is currently on day 5 of it's 9-day cycle.
-Felucca is currently on day 6 of it's 9-day cycle.
+Felucca is currently on day 6 of it's 14-day cycle.
 Process finished with exit code 0
 
 //For 67294091:
 Input World Time: 67294091
 It is 00:11 on day 13 of year 129.
 Trammel is currently on day 5 of it's 9-day cycle.
-Felucca is currently on day 1 of it's 9-day cycle.
+Felucca is currently on day 1 of it's 14-day cycle.
 Process finished with exit code 0
